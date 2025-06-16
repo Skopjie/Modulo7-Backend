@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nombre": "Producto sss",
+    "descripcion": "Este es un producto de ejemplo",
+    "precio": 19.99,
+    "fechaCreacion": "2025-05-30"
+  },
+  {
+    "id": "1748795832071",
+    "nombre": "Productrero",
+    "descripcion": "Este es un producto",
+    "precio": 23,
+    "fechaCreacion": "2025-05-31"
+  }
+]

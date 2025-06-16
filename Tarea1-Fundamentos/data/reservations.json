@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0dd4fde9-bab5-49e9-82d7-286f5822f5df",
+    "roomId": "room1",
+    "roomName": "Study Room 1",
+    "timeSlot": "2025-06-01T13:00",
+    "userName": "Juan"
+  },
+  {
+    "id": "e8727740-9fe5-478f-a786-3ab5fd3e1942",
+    "roomId": "room1",
+    "roomName": "Study Room 1",
+    "timeSlot": "2025-06-01T13:00",
+    "userName": "Juan"
+  },
+  {
+    "id": "01c975f7-2d49-41bc-8597-b2afc7ab9fe2",
+    "roomId": "room1",
+    "roomName": "Study Room 1",
+    "timeSlot": "2025-06-01T13:00",
+    "userName": "Juan"
+  },
+  {
+    "id": "aa43c2a0-5dd7-4426-a0c3-e20cb404b7f3",
+    "roomId": "room1",
+    "roomName": "Study Room 1",
+    "timeSlot": "2025-06-01T13:00",
+    "userName": "Juan"
+  },
+  {
+    "id": "7782418a-5df9-4499-b28c-09605daefbfd",
+    "roomId": "room1",
+    "roomName": "Study Room 1",
+    "timeSlot": "2025-06-01T13:10",
+    "userName": "Juan1"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "node-sequelize-api",
+  "version": "1.0.0",
+  "description": "API REST en Node.js con Sequelize para gestionar productos en MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "redis": "^5.5.5",
+    "sequelize": "^6.31.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.7"
+  }
+}
